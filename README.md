@@ -1,57 +1,62 @@
-# Hi, I'm Peniel Develop 👋
+## 🚀 Open Source Contributions
 
-I'm a Software Developer and Open Source Contributor passionate about building backend systems, APIs, and blockchain applications.
+I contribute to open-source software across **C++, Python, TypeScript/JavaScript, and Rust**, focusing on production bug fixes, regression testing, backend/API development, authentication, developer tooling, and software reliability.
 
-My goal is to become an exceptional backend and blockchain engineer by contributing consistently to open-source projects and solving real-world software problems.
+### ⭐ Selected Contributions
 
-## 🚀 What I'm Currently Working On
+#### 🔹 Tenstorrent — `tt-metal`
 
-* Contributing to open-source projects through Drips
-* Building expertise in backend development and blockchain technologies
-* Improving my software engineering and collaboration skills
+Contributing fixes and regression coverage for AI/static-analysis defects involving tensor operations, model-training infrastructure, and performance tooling.
 
-## 💻 Core Technologies
+- Fixed broadcasted gradient handling for tensor operations.
+- Corrected Tracy device performance-counter handling and added regression coverage.
+- Improved nanoGPT vocabulary handling and associated tests.
 
-* NestJS
-* TypeScript
-* REST APIs
-* React
-* Next.js
-* Rust
-* Soroban Smart Contracts
-* Stellar Blockchain
-* Git & GitHub
-
-## 🌱 Currently Learning
-
-* Advanced NestJS architecture
-* API security and authentication
-* Distributed systems
-* Rust for production applications
-* Smart contract development with Soroban
-
-## 🏆 Open Source
-
-* ✅ Successfully contributed to the **stellar-pay** project by implementing a CORS configuration enhancement in the NestJS API.
-* 🚀 Actively looking for opportunities to contribute to backend, API, React, Rust, Soroban, and Stellar projects.
-
-## 🤝 Looking to Collaborate On
-
-I'm interested in contributing to:
-
-* Backend APIs
-* NestJS applications
-* TypeScript projects
-* React & Next.js applications
-* Rust projects
-* Soroban smart contracts
-* Stellar ecosystem projects
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/penielgold-hub
-* LinkedIn: *(Updating profile)*
+**Tech:** C++ · Python · PyTorch · Testing · AI/ML Infrastructure
 
 ---
 
-> *"Learning by building. Growing through open source."*
+#### 🔹 Soterika — `aura-vault-protocol`
+
+Contributed multiple backend and frontend features across authentication, portfolio APIs, event search, and application validation.
+
+- **#937 — API Key Authentication for Integrations:** implemented API-key authentication infrastructure including database migration, API-key service, authentication middleware, rate limiting, administrative routes, automated tests, and API documentation.
+- **#936 — Event Search:** implemented PostgreSQL full-text search functionality for vault events with migrations, routes, services, and automated tests.
+- **#6 — User Portfolio:** contributed portfolio functionality and associated application testing.
+- **#134 — Form Validation:** improved UI/UX through real-time form validation.
+
+**Tech:** TypeScript · Node.js · REST APIs · PostgreSQL · Authentication · Rate Limiting · Testing
+
+---
+
+#### 🔹 FaveTeamz — `workload-governor`
+
+Contributed frontend reliability, accessibility, and user-experience improvements.
+
+- Added inline client-side validation feedback.
+- Prevented duplicate withdrawal actions while transactions are pending.
+- Improved keyboard accessibility for toast notifications.
+
+**Tech:** TypeScript · Frontend · Accessibility · Form Validation · Testing
+
+---
+
+#### 🔹 DelegoLabs — `Delego-backend`
+
+Implemented functionality for a **Recurring Subscription Scheduler & Smart Purchase Trigger**, contributing to backend automation and recurring-purchase workflows.
+
+**Tech:** Backend Development · Automation · Scheduling · Testing
+
+---
+
+#### 🔹 Additional Open Source Contributions
+
+Contributed focused fixes and regression coverage across **StellarLend, QuickLendX, Remitwise, Credence**, and other open-source projects involving repository integration, failure-path testing, logging, error handling, and software reliability.
+
+### 🛠️ Technical Focus
+
+`C++` · `Python` · `TypeScript` · `JavaScript` · `Rust` · `Node.js` · `Git/GitHub` · `REST APIs` · `PostgreSQL` · `Authentication` · `Testing` · `CI/CD`
+
+### 🎯 Current Focus
+
+Continuing to contribute to open-source projects with an emphasis on **production fixes, regression testing, AI/ML infrastructure, backend systems, authentication, and reliable software engineering**.

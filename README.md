@@ -6,6 +6,16 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 ## ✅ Merged Open Source Contributions
 
+**9 verified merged pull requests** across ScoopInstaller, Soterika, FaveTeamz, and DelegoLabs.
+
+| Project | Merged PRs | Contribution |
+| --- | --- | --- |
+| [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | [#18941](https://github.com/ScoopInstaller/Extras/pull/18941) | Fixed Aegisub portable archive extraction on Windows |
+| [Soterika/aura-vault-protocol](https://github.com/soterika/aura-vault-protocol) | [#1067](https://github.com/soterika/aura-vault-protocol/pull/1067), [#819](https://github.com/soterika/aura-vault-protocol/pull/819), [#833](https://github.com/soterika/aura-vault-protocol/pull/833) | Event search, portfolio integration, form validation |
+| [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#819](https://github.com/FaveTeamz/workload-governor/pull/819), [#820](https://github.com/FaveTeamz/workload-governor/pull/820), [#932](https://github.com/FaveTeamz/workload-governor/pull/932) | Form validation, withdrawal safety, accessibility |
+| [DelegoLabs/Delego-backend](https://github.com/DelegoLabs/Delego-backend) | [#462](https://github.com/DelegoLabs/Delego-backend/pull/462) | Checkout authorization and backend security |
+
+
 ### 🔹 [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 
 **[PR #18941 — Fix Aegisub Portable Archive Extraction](https://github.com/ScoopInstaller/Extras/pull/18941)** ✅ **Merged**

@@ -6,7 +6,7 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 ## 🏆 Drips Wave — Recognized Contributions
 
-The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **16 resolved contributions across Stellar Waves 7–9**, totaling **2,500 points across the visible historical entries** (Wave 7: 450; Wave 8: 400; Wave 9: 1,650). These are Drips resolution records; they should not be interpreted as 14 independently verified merged GitHub PRs. The dashboard's trophy balance is displayed separately.
+The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **16 resolved contributions across Stellar Waves 7–9**, totaling **2,500 points across the visible historical entries** (Wave 7: 450; Wave 8: 400; Wave 9: 1,650). These are Drips resolution records, not a claim of 16 independently verified merged GitHub PRs. The dashboard's trophy balance is displayed separately.
 
 | Wave | Project / contribution | Points |
 | --- | --- | ---: |
@@ -46,32 +46,6 @@ The [Drips Wave points dashboard](https://www.drips.network/wave/points) records
 | [morluto/rea](https://github.com/morluto/rea) | [#1138](https://github.com/morluto/rea/pull/1138) (follow-up to [my #1133](https://github.com/morluto/rea/pull/1133)) | npm 12 release-version lookup fix, cherry-picked and credited upstream |
 
 
-### 🔹 [REA — npm 12 Release Lookup](https://github.com/morluto/rea)
-
-**[PR #1138 — Upstream Follow-up](https://github.com/morluto/rea/pull/1138)** ✅ **Merged** · Based on **[my PR #1133](https://github.com/morluto/rea/pull/1133)** (closed without merging)
-
-Fixed npm 12 release metadata handling for `rea update`: the npm registry's one-element JSON array response is now accepted alongside npm 11's string response. The maintainer follow-up cherry-picked my original commit `aa400d18` and explicitly retained author credit, then refined error handling and regression tests.
-
-**Result:** The corrected implementation was merged upstream on October 8, 2026. My original PR #1133 was not itself merged.
-
-**Tech:** TypeScript · Node.js · npm · CLI Tooling · Regression Testing
-
----
-
-### 🔹 [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-
-**[PR #18941 — Fix Aegisub Portable Archive Extraction](https://github.com/ScoopInstaller/Extras/pull/18941)** ✅ **Merged**
-
-Fixed a production package-installation regression caused by an upstream Aegisub portable archive filename change.
-
-The fix replaced reliance on the previous hard-coded nested archive filename with portable-archive discovery, while preserving the existing Scoop extraction flow.
-
-**Result:** Repository CI, PR validation, lint checks, and review passed before maintainer approval and merge.
-
-**Tech:** PowerShell · JSON · Windows · Package Management · CI/CD · Regression Debugging
-
----
-
 ## 🚀 Open Source Engineering
 
 ### 🔹 [Tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
@@ -84,40 +58,6 @@ Contributing fixes and regression coverage for AI/static-analysis defects involv
 - **[PR #59187](https://github.com/tenstorrent/tt-metal/pull/59187)** — Improved three-tier nanoGPT vocabulary handling and associated testing.
 
 **Tech:** C++ · Python · PyTorch · Testing · AI/ML Infrastructure · Performance Tooling
-
----
-
-### 🔹 [Soterika/aura-vault-protocol](https://github.com/soterika/aura-vault-protocol)
-
-Contributed backend and frontend improvements involving authentication, API infrastructure, event search, portfolio functionality, rate limiting, and application validation.
-
-- **[Event Search — PR #1067](https://github.com/soterika/aura-vault-protocol/pull/1067)** — Implemented PostgreSQL full-text search for vault events with migrations, routes, services, pagination validation, authentication, and automated tests.
-- **[User Portfolio — PR #819](https://github.com/soterika/aura-vault-protocol/pull/819)** — Connected the Vault Dashboard to the backend portfolio API with authentication, pagination, caching, and rate limiting.
-- **[Form Validation — PR #833](https://github.com/soterika/aura-vault-protocol/pull/833)** — Improved form validation, accessibility behavior, and component test coverage.
-
-**Tech:** TypeScript · Node.js · REST APIs · PostgreSQL · Authentication · Rate Limiting · Testing
-
----
-
-### 🔹 [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor)
-
-Contributed frontend reliability, accessibility, validation, and user-experience improvements.
-
-- **[PR #819 — Transaction Form Validation](https://github.com/FaveTeamz/workload-governor/pull/819)** — Prevented transaction submission while validation errors are present and improved accessibility associations.
-- **[PR #820 — Withdrawal Safety](https://github.com/FaveTeamz/workload-governor/pull/820)** — Prevented duplicate withdrawal submissions while transactions are pending and added accessibility states and regression coverage.
-- **[PR #932 — Toast Accessibility](https://github.com/FaveTeamz/workload-governor/pull/932)** — Added keyboard dismissal, focus/hover behavior, and accessibility regression coverage for toast notifications.
-
-**Tech:** TypeScript · Frontend · Accessibility · Form Validation · Testing
-
----
-
-### 🔹 [DelegoLabs/Delego-backend](https://github.com/DelegoLabs/Delego-backend)
-
-Contributed backend security and authorization improvements to checkout and wallet-service flows.
-
-- **[PR #462 — Checkout Service Authorization](https://github.com/DelegoLabs/Delego-backend/pull/462)** — Added service-to-service authentication, authenticated-user propagation, wallet ownership validation, focused authorization tests, and Kubernetes secret-based configuration.
-
-**Tech:** TypeScript · Backend Security · Authentication · Authorization · Testing · Kubernetes
 
 ---
 

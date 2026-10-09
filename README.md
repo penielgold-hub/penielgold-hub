@@ -6,28 +6,26 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 ## 🏆 Drips Wave — Recognized Contributions
 
-The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **16 resolved contributions across Stellar Waves 7–9**, totaling **2,500 points across the visible historical entries** (Wave 7: 450; Wave 8: 400; Wave 9: 1,650). These are Drips resolution records, not a claim of 16 independently verified merged GitHub PRs. The dashboard's trophy balance is displayed separately.
+The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **16 resolved contributions across Stellar Waves 7–9**. These are Drips resolution records, not a claim of 16 independently verified merged GitHub PRs.
 
-| Wave | Project / contribution | Points |
-| --- | --- | ---: |
-| 9 | Soterika — API key authentication for machine-to-machine integrations | 150 |
-| 9 | Wraith Protocol docs — redirect and anchor checks for renamed pages | 200 |
-| 9 | FaveTeamz — disable WithdrawButton during pending transactions | 200 |
-| 9 | FaveTeamz — SettingsPage inline validation feedback | 200 |
-| 9 | FaveTeamz — keyboard-dismissible accessible toast notifications | 200 |
-| 9 | StellarLend — notificationPreferences import fix | 100 |
-| 9 | Credence — Jest configuration boundary and recovery tests | 100 |
-| 9 | Remitwise — require_not_paused failure-boundary tests | 100 |
-| 9 | QuickLendX — classifyField failure-boundary tests | 100 |
-| 9 | DelegoLabs — recurring subscription scheduler and smart purchase trigger | 200 |
-| 9 | Soterika — PostgreSQL vault-event full-text search | 100 |
-| 8 | Soterika — backend user portfolio endpoint | 200 |
-| 8 | Soterika — real-time UI form validation | 200 |
-| 7 | Marketplace — real-time trade ticker component | 150 |
-| 7 | Hunty web app — fix `apps/web/tsconfig.json` shared configuration inheritance from `@hunty/config` | 100 |
-| 7 | Backend — add CORS configuration to `main.ts` | 200 |
-
-**Drips points by wave:** Wave 7 **450** · Wave 8 **400** · Wave 9 **1,650**.
+| Wave | Project / contribution |
+| --- | --- |
+| 9 | Soterika — API key authentication for machine-to-machine integrations |
+| 9 | Wraith Protocol docs — redirect and anchor checks for renamed pages |
+| 9 | FaveTeamz — disable WithdrawButton during pending transactions |
+| 9 | FaveTeamz — SettingsPage inline validation feedback |
+| 9 | FaveTeamz — keyboard-dismissible accessible toast notifications |
+| 9 | StellarLend — notificationPreferences import fix |
+| 9 | Credence — Jest configuration boundary and recovery tests |
+| 9 | Remitwise — require_not_paused failure-boundary tests |
+| 9 | QuickLendX — classifyField failure-boundary tests |
+| 9 | DelegoLabs — recurring subscription scheduler and smart purchase trigger |
+| 9 | Soterika — PostgreSQL vault-event full-text search |
+| 8 | Soterika — backend user portfolio endpoint |
+| 8 | Soterika — real-time UI form validation |
+| 7 | Marketplace — real-time trade ticker component |
+| 7 | Hunty web app — fix `apps/web/tsconfig.json` shared configuration inheritance from `@hunty/config` |
+| 7 | Backend — add CORS configuration to `main.ts` |
 
 > Drips Wave resolution records are distinct from GitHub PR merge status. Some contributions above are also featured in the merged-PR and engineering sections below; they are listed here for Wave recognition, not counted again as additional merged PRs.
 

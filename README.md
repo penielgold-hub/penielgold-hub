@@ -4,6 +4,33 @@ I'm a **Software Developer and Open Source Contributor** working across **C++, P
 
 I contribute to production open-source projects through **bug fixes, regression testing, backend/API development, authentication and authorization, developer tooling, accessibility, and software reliability**.
 
+## 🏆 Drips Wave — Recognized Contributions
+
+The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **14 resolved contributions across Stellar Waves 7–9**, totaling **2,200 points across the visible historical entries** (Wave 7: 150; Wave 8: 400; Wave 9: 1,650). These are Drips resolution records; they should not be interpreted as 14 independently verified merged GitHub PRs. The dashboard's trophy balance is displayed separately.
+
+| Wave | Project / contribution | Points |
+| --- | --- | ---: |
+| 9 | Soterika — API key authentication for machine-to-machine integrations | 150 |
+| 9 | Wraith Protocol docs — redirect and anchor checks for renamed pages | 200 |
+| 9 | FaveTeamz — disable WithdrawButton during pending transactions | 200 |
+| 9 | FaveTeamz — SettingsPage inline validation feedback | 200 |
+| 9 | FaveTeamz — keyboard-dismissible accessible toast notifications | 200 |
+| 9 | StellarLend — notificationPreferences import fix | 100 |
+| 9 | Credence — Jest configuration boundary and recovery tests | 100 |
+| 9 | Remitwise — require_not_paused failure-boundary tests | 100 |
+| 9 | QuickLendX — classifyField failure-boundary tests | 100 |
+| 9 | DelegoLabs — recurring subscription scheduler and smart purchase trigger | 200 |
+| 9 | Soterika — PostgreSQL vault-event full-text search | 100 |
+| 8 | Soterika — backend user portfolio endpoint | 200 |
+| 8 | Soterika — real-time UI form validation | 200 |
+| 7 | Marketplace — real-time trade ticker component | 150 |
+
+**Drips points by wave:** Wave 7 **150** · Wave 8 **400** · Wave 9 **1,650**.
+
+> Drips Wave resolution records are distinct from GitHub PR merge status. Some contributions above are also featured in the merged-PR and engineering sections below; they are listed here for Wave recognition, not counted again as additional merged PRs.
+
+---
+
 ## ✅ Merged Open Source Contributions
 
 **8 directly merged pull requests**, plus **1 upstream-merged contribution credited through a follow-up PR**, across ScoopInstaller, Soterika, FaveTeamz, DelegoLabs, and REA.

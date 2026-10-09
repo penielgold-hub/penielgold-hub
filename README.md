@@ -6,10 +6,12 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 ## ✅ Merged Open Source Contributions
 
-**18 directly merged pull requests across 12 repositories**, verified on 9 October 2026.
+**20 directly merged pull requests across 14 repositories**, verified on 9 October 2026.
 
 | Project | Merged PR | Contribution |
 | --- | --- | --- |
+| [so-keyldzn/semantiq](https://github.com/so-keyldzn/semantiq) | [#67](https://github.com/so-keyldzn/semantiq/pull/67) | Fixed dotted import resolution and JavaScript-to-TypeScript import fallbacks. |
+| [misospace/musebridge](https://github.com/misospace/musebridge) | [#59](https://github.com/misospace/musebridge/pull/59) | Synchronized marketplace service versioning with releases. |
 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | [#18941](https://github.com/ScoopInstaller/Extras/pull/18941) | Fixed Aegisub portable archive extraction on Windows. |
 | [StellarLend/Stellarlend-frontend](https://github.com/StellarLend/Stellarlend-frontend) | [#1632](https://github.com/StellarLend/Stellarlend-frontend/pull/1632) | Corrected the notification preferences schema import and test mock. |
 | [Remitwise-Org/Remitwise-Contracts](https://github.com/Remitwise-Org/Remitwise-Contracts) | [#1852](https://github.com/Remitwise-Org/Remitwise-Contracts/pull/1852) | Added pause-guard failure, state-preservation, and recovery tests. |
@@ -35,7 +37,7 @@ I contribute to production open-source projects through **bug fixes, regression 
 | --- | --- | --- |
 | [morluto/rea](https://github.com/morluto/rea) | [My #1133](https://github.com/morluto/rea/pull/1133) → [Merged follow-up #1138](https://github.com/morluto/rea/pull/1138) | Fixed npm 12 release-version lookup. The maintainer cherry-picked my fix, preserved commit authorship, and merged it with further refinements. |
 
-This credited contribution is additional to the 18 directly merged PRs above.
+This credited contribution is additional to the 20 directly merged PRs above.
 
 ## 🚀 Open Source Engineering
 

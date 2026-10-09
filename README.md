@@ -6,7 +6,7 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 ## ✅ Merged Open Source Contributions
 
-**9 verified merged pull requests** across ScoopInstaller, Soterika, FaveTeamz, and DelegoLabs.
+**8 directly merged pull requests**, plus **1 upstream-merged contribution credited through a follow-up PR**, across ScoopInstaller, Soterika, FaveTeamz, DelegoLabs, and REA.
 
 | Project | Merged PRs | Contribution |
 | --- | --- | --- |
@@ -14,7 +14,20 @@ I contribute to production open-source projects through **bug fixes, regression 
 | [Soterika/aura-vault-protocol](https://github.com/soterika/aura-vault-protocol) | [#1067](https://github.com/soterika/aura-vault-protocol/pull/1067), [#819](https://github.com/soterika/aura-vault-protocol/pull/819), [#833](https://github.com/soterika/aura-vault-protocol/pull/833) | Event search, portfolio integration, form validation |
 | [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#819](https://github.com/FaveTeamz/workload-governor/pull/819), [#820](https://github.com/FaveTeamz/workload-governor/pull/820), [#932](https://github.com/FaveTeamz/workload-governor/pull/932) | Form validation, withdrawal safety, accessibility |
 | [DelegoLabs/Delego-backend](https://github.com/DelegoLabs/Delego-backend) | [#462](https://github.com/DelegoLabs/Delego-backend/pull/462) | Checkout authorization and backend security |
+| [morluto/rea](https://github.com/morluto/rea) | [#1138](https://github.com/morluto/rea/pull/1138) (follow-up to [my #1133](https://github.com/morluto/rea/pull/1133)) | npm 12 release-version lookup fix, cherry-picked and credited upstream |
 
+
+### 🔹 [REA — npm 12 Release Lookup](https://github.com/morluto/rea)
+
+**[PR #1138 — Upstream Follow-up](https://github.com/morluto/rea/pull/1138)** ✅ **Merged** · Based on **[my PR #1133](https://github.com/morluto/rea/pull/1133)** (closed without merging)
+
+Fixed npm 12 release metadata handling for `rea update`: the npm registry's one-element JSON array response is now accepted alongside npm 11's string response. The maintainer follow-up cherry-picked my original commit `aa400d18` and explicitly retained author credit, then refined error handling and regression tests.
+
+**Result:** The corrected implementation was merged upstream on October 8, 2026. My original PR #1133 was not itself merged.
+
+**Tech:** TypeScript · Node.js · npm · CLI Tooling · Regression Testing
+
+---
 
 ### 🔹 [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 

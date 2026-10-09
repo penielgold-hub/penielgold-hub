@@ -4,45 +4,38 @@ I'm a **Software Developer and Open Source Contributor** working across **C++, P
 
 I contribute to production open-source projects through **bug fixes, regression testing, backend/API development, authentication and authorization, developer tooling, accessibility, and software reliability**.
 
-## 🏆 Drips Wave — Recognized Contributions
-
-The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **16 resolved contributions across Stellar Waves 7–9**. These are Drips resolution records, not a claim of 16 independently verified merged GitHub PRs.
-
-| Wave | Project / contribution |
-| --- | --- |
-| 9 | Soterika — API key authentication for machine-to-machine integrations |
-| 9 | Wraith Protocol docs — redirect and anchor checks for renamed pages |
-| 9 | FaveTeamz — disable WithdrawButton during pending transactions |
-| 9 | FaveTeamz — SettingsPage inline validation feedback |
-| 9 | FaveTeamz — keyboard-dismissible accessible toast notifications |
-| 9 | StellarLend — notificationPreferences import fix |
-| 9 | Credence — Jest configuration boundary and recovery tests |
-| 9 | Remitwise — require_not_paused failure-boundary tests |
-| 9 | QuickLendX — classifyField failure-boundary tests |
-| 9 | DelegoLabs — recurring subscription scheduler and smart purchase trigger |
-| 9 | Soterika — PostgreSQL vault-event full-text search |
-| 8 | Soterika — backend user portfolio endpoint |
-| 8 | Soterika — real-time UI form validation |
-| 7 | Marketplace — real-time trade ticker component |
-| 7 | Hunty web app — fix `apps/web/tsconfig.json` shared configuration inheritance from `@hunty/config` |
-| 7 | Backend — add CORS configuration to `main.ts` |
-
-> Drips Wave resolution records are distinct from GitHub PR merge status. Some contributions above are also featured in the merged-PR and engineering sections below; they are listed here for Wave recognition, not counted again as additional merged PRs.
-
----
-
 ## ✅ Merged Open Source Contributions
 
-**8 directly merged pull requests**, plus **1 upstream-merged contribution credited through a follow-up PR**, across ScoopInstaller, Soterika, FaveTeamz, DelegoLabs, and REA.
+**18 directly merged pull requests across 12 repositories**, verified on 9 October 2026.
 
-| Project | Merged PRs | Contribution |
+| Project | Merged PR | Contribution |
 | --- | --- | --- |
-| [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | [#18941](https://github.com/ScoopInstaller/Extras/pull/18941) | Fixed Aegisub portable archive extraction on Windows |
-| [Soterika/aura-vault-protocol](https://github.com/soterika/aura-vault-protocol) | [#1067](https://github.com/soterika/aura-vault-protocol/pull/1067), [#819](https://github.com/soterika/aura-vault-protocol/pull/819), [#833](https://github.com/soterika/aura-vault-protocol/pull/833) | Event search, portfolio integration, form validation |
-| [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#819](https://github.com/FaveTeamz/workload-governor/pull/819), [#820](https://github.com/FaveTeamz/workload-governor/pull/820), [#932](https://github.com/FaveTeamz/workload-governor/pull/932) | Form validation, withdrawal safety, accessibility |
-| [DelegoLabs/Delego-backend](https://github.com/DelegoLabs/Delego-backend) | [#462](https://github.com/DelegoLabs/Delego-backend/pull/462) | Checkout authorization and backend security |
-| [morluto/rea](https://github.com/morluto/rea) | [#1138](https://github.com/morluto/rea/pull/1138) (follow-up to [my #1133](https://github.com/morluto/rea/pull/1133)) | npm 12 release-version lookup fix, cherry-picked and credited upstream |
+| [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | [#18941](https://github.com/ScoopInstaller/Extras/pull/18941) | Fixed Aegisub portable archive extraction on Windows. |
+| [StellarLend/Stellarlend-frontend](https://github.com/StellarLend/Stellarlend-frontend) | [#1632](https://github.com/StellarLend/Stellarlend-frontend/pull/1632) | Corrected the notification preferences schema import and test mock. |
+| [Remitwise-Org/Remitwise-Contracts](https://github.com/Remitwise-Org/Remitwise-Contracts) | [#1852](https://github.com/Remitwise-Org/Remitwise-Contracts/pull/1852) | Added pause-guard failure, state-preservation, and recovery tests. |
+| [CredenceOrg/Credence-Backend](https://github.com/CredenceOrg/Credence-Backend) | [#1481](https://github.com/CredenceOrg/Credence-Backend/pull/1481) | Added Jest configuration boundary and recovery tests. |
+| [QuickLendX/quicklendx-protocol](https://github.com/QuickLendX/quicklendx-protocol) | [#2765](https://github.com/QuickLendX/quicklendx-protocol/pull/2765) | Hardened logging field classification against inherited object properties. |
+| [DelegoLabs/Delego-backend](https://github.com/DelegoLabs/Delego-backend) | [#462](https://github.com/DelegoLabs/Delego-backend/pull/462) | Secured checkout service authentication and wallet ownership authorization. |
+| [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#932](https://github.com/FaveTeamz/workload-governor/pull/932) | Improved keyboard dismissal and focus/hover handling for toast notifications. |
+| [soterika/aura-vault-protocol](https://github.com/soterika/aura-vault-protocol) | [#1067](https://github.com/soterika/aura-vault-protocol/pull/1067) | Added PostgreSQL event search, protected routes, pagination validation, and regression tests. |
+| [wraith-protocol/docs](https://github.com/wraith-protocol/docs) | [#173](https://github.com/wraith-protocol/docs/pull/173) | Added documentation redirect, internal-link, and anchor validation with CI checks. |
+| [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#820](https://github.com/FaveTeamz/workload-governor/pull/820) | Prevented repeated withdrawal submissions while transactions are pending. |
+| [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#819](https://github.com/FaveTeamz/workload-governor/pull/819) | Prevented invalid transaction form submissions and improved accessibility. |
+| [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#818](https://github.com/FaveTeamz/workload-governor/pull/818) | Added accessible toast dismissal and auto-dismiss regression coverage. |
+| [soterika/aura-vault-protocol](https://github.com/soterika/aura-vault-protocol) | [#833](https://github.com/soterika/aura-vault-protocol/pull/833) | Improved form validation, accessibility, error recovery, and component tests. |
+| [FaveTeamz/workload-governor](https://github.com/FaveTeamz/workload-governor) | [#710](https://github.com/FaveTeamz/workload-governor/pull/710) | Resolved a CSS filename case conflict affecting Windows checkouts. |
+| [soterika/aura-vault-protocol](https://github.com/soterika/aura-vault-protocol) | [#819](https://github.com/soterika/aura-vault-protocol/pull/819) | Connected the vault dashboard to the portfolio API with authentication, pagination, and caching. |
+| [Samuel1-ona/hunty](https://github.com/Samuel1-ona/hunty) | [#1048](https://github.com/Samuel1-ona/hunty/pull/1048) | Reused shared TypeScript configuration presets for web and mobile apps. |
+| [Farm-credit/stellar-app-os](https://github.com/Farm-credit/stellar-app-os) | [#898](https://github.com/Farm-credit/stellar-app-os/pull/898) | Implemented a real-time marketplace trade ticker. |
+| [MissBlue00/stellar-pay](https://github.com/MissBlue00/stellar-pay) | [#319](https://github.com/MissBlue00/stellar-pay/pull/319) | Configured CORS during API bootstrap. |
 
+### Credited Upstream Contribution
+
+| Project | PR references | Contribution |
+| --- | --- | --- |
+| [morluto/rea](https://github.com/morluto/rea) | [My #1133](https://github.com/morluto/rea/pull/1133) → [Merged follow-up #1138](https://github.com/morluto/rea/pull/1138) | Fixed npm 12 release-version lookup. The maintainer cherry-picked my fix, preserved commit authorship, and merged it with further refinements. |
+
+This credited contribution is additional to the 18 directly merged PRs above.
 
 ## 🚀 Open Source Engineering
 

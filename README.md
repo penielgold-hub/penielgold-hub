@@ -6,7 +6,7 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 ## 🏆 Drips Wave — Recognized Contributions
 
-The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **14 resolved contributions across Stellar Waves 7–9**, totaling **2,200 points across the visible historical entries** (Wave 7: 150; Wave 8: 400; Wave 9: 1,650). These are Drips resolution records; they should not be interpreted as 14 independently verified merged GitHub PRs. The dashboard's trophy balance is displayed separately.
+The [Drips Wave points dashboard](https://www.drips.network/wave/points) records **16 resolved contributions across Stellar Waves 7–9**, totaling **2,500 points across the visible historical entries** (Wave 7: 450; Wave 8: 400; Wave 9: 1,650). These are Drips resolution records; they should not be interpreted as 14 independently verified merged GitHub PRs. The dashboard's trophy balance is displayed separately.
 
 | Wave | Project / contribution | Points |
 | --- | --- | ---: |
@@ -24,8 +24,10 @@ The [Drips Wave points dashboard](https://www.drips.network/wave/points) records
 | 8 | Soterika — backend user portfolio endpoint | 200 |
 | 8 | Soterika — real-time UI form validation | 200 |
 | 7 | Marketplace — real-time trade ticker component | 150 |
+| 7 | Hunty web app — fix `apps/web/tsconfig.json` shared configuration inheritance from `@hunty/config` | 100 |
+| 7 | Backend — add CORS configuration to `main.ts` | 200 |
 
-**Drips points by wave:** Wave 7 **150** · Wave 8 **400** · Wave 9 **1,650**.
+**Drips points by wave:** Wave 7 **450** · Wave 8 **400** · Wave 9 **1,650**.
 
 > Drips Wave resolution records are distinct from GitHub PR merge status. Some contributions above are also featured in the merged-PR and engineering sections below; they are listed here for Wave recognition, not counted again as additional merged PRs.
 

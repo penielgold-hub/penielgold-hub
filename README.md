@@ -6,10 +6,17 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 ## ✅ Merged Open Source Contributions
 
-**20 directly merged pull requests across 14 repositories**, verified on 9 October 2026.
+**27 directly merged pull requests across 15 repositories**, verified on 10 October 2026.
 
 | Project | Merged PR | Contribution |
 | --- | --- | --- |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#126](https://github.com/Presago-Labs/presago/pull/126) | Reconciled Mainnet and Testnet contract documentation. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#125](https://github.com/Presago-Labs/presago/pull/125) | Fixed zero-epoch leaderboard timestamp formatting and added regression tests. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#121](https://github.com/Presago-Labs/presago/pull/121) | Corrected contract error-code source references. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#120](https://github.com/Presago-Labs/presago/pull/120) | Retired the obsolete accent-renaming PowerShell utility. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#119](https://github.com/Presago-Labs/presago/pull/119) | Removed obsolete VS Code workspace settings. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#118](https://github.com/Presago-Labs/presago/pull/118) | Removed obsolete SST/AWS debugging configurations. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#117](https://github.com/Presago-Labs/presago/pull/117) | Improved frontend accessibility semantics and keyboard navigation. |
 | [so-keyldzn/semantiq](https://github.com/so-keyldzn/semantiq) | [#67](https://github.com/so-keyldzn/semantiq/pull/67) | Fixed dotted import resolution and JavaScript-to-TypeScript import fallbacks. |
 | [misospace/musebridge](https://github.com/misospace/musebridge) | [#59](https://github.com/misospace/musebridge/pull/59) | Synchronized marketplace service versioning with releases. |
 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | [#18941](https://github.com/ScoopInstaller/Extras/pull/18941) | Fixed Aegisub portable archive extraction on Windows. |
@@ -37,7 +44,7 @@ I contribute to production open-source projects through **bug fixes, regression 
 | --- | --- | --- |
 | [morluto/rea](https://github.com/morluto/rea) | [My #1133](https://github.com/morluto/rea/pull/1133) → [Merged follow-up #1138](https://github.com/morluto/rea/pull/1138) | Fixed npm 12 release-version lookup. The maintainer cherry-picked my fix, preserved commit authorship, and merged it with further refinements. |
 
-This credited contribution is additional to the 20 directly merged PRs above.
+This credited contribution is additional to the 27 directly merged PRs above.
 
 ## 🚀 Open Source Engineering
 

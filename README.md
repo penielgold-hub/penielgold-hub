@@ -1,12 +1,25 @@
-# Hi, I'm Dapo Olaomo 👋
+# Dapo Olaomo
 
-I'm a **Software Developer and Open Source Contributor** working across **C++, Python, TypeScript/JavaScript, and Rust**.
+**Software Developer | Open Source Contributor**  
+C++ · Python · TypeScript · JavaScript · Rust
 
-I contribute to production open-source projects through **bug fixes, regression testing, backend/API development, authentication and authorization, developer tooling, accessibility, and software reliability**.
+I build and improve open-source software through targeted bug fixes, regression tests, backend/API development, accessibility improvements, and developer tooling. My work spans production applications, AI/ML infrastructure, and software reliability.
+
+**[Explore my repositories](https://github.com/penielgold-hub?tab=repositories)** · **[View merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Apenielgold-hub+is%3Amerged)**
+
+## Selected contributions
+
+- **[ScoopInstaller/Extras #18941](https://github.com/ScoopInstaller/Extras/pull/18941)** — Fixed Aegisub portable archive extraction following an upstream archive rename; approved and merged on 7 October 2026.
+- **[Presago-Labs/presago](https://github.com/Presago-Labs/presago)** — Accessibility, regression testing, documentation, and maintenance improvements.
+- **[Tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)** — Submitted fixes involving tensor gradients, profiling metadata, performance counters, and model-training tooling; see the individual PRs below for their current status.
+
+## Contribution record
+
+The following is a **historical contribution register**, last compiled on 10 October 2026. It separates directly merged PRs from contributions credited through maintainer follow-up PRs. For the latest status, open the linked PR on GitHub.
 
 ## ✅ Merged Open Source Contributions
 
-**27 directly merged pull requests across 15 repositories**, verified on 10 October 2026.
+**27 directly merged pull requests across 15 repositories**, as recorded on 10 October 2026. This count has not been re-audited in this update.
 
 | Project | Merged PR | Contribution |
 | --- | --- | --- |
@@ -49,7 +62,7 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 These credited upstream contributions are additional to the 27 directly merged PRs above. The three Presago follow-up PRs were merged by the maintainer, not directly from my original PRs.
 
-## 🚀 Open Source Engineering
+## Open source engineering
 
 ### 🔹 [Tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
 
@@ -64,7 +77,7 @@ Contributing fixes and regression coverage for AI/static-analysis defects involv
 
 ---
 
-## 🔧 Additional Contributions
+## Additional contributions
 
 I have also worked on focused fixes and regression coverage across projects involving:
 
@@ -76,7 +89,7 @@ I have also worked on focused fixes and regression coverage across projects invo
 - CI and package-management issues
 - Software reliability improvements
 
-## 💻 Technical Stack
+## Technical stack
 
 **Languages**
 
@@ -94,7 +107,7 @@ I have also worked on focused fixes and regression coverage across projects invo
 
 `AI/ML Infrastructure` · `Backend Systems` · `Developer Tooling` · `Open Source` · `Software Reliability`
 
-## 🌱 Currently Developing
+## Currently developing
 
 - C++ and Python for AI/ML infrastructure
 - Backend and API architecture
@@ -103,11 +116,11 @@ I have also worked on focused fixes and regression coverage across projects invo
 - Automated and regression testing
 - Open-source collaboration and code review
 
-## 🎯 Current Focus
+## Current focus
 
 I am actively contributing to open-source projects with an emphasis on **production bug fixes, regression testing, AI/ML infrastructure, backend systems, authentication, developer tooling, and reliable software engineering**.
 
-## 🤝 Open to Collaboration
+## Open to collaboration
 
 I'm interested in open-source and engineering opportunities involving:
 
@@ -120,7 +133,7 @@ I'm interested in open-source and engineering opportunities involving:
 - Developer tooling
 - Production bug fixing
 
-## 📫 Connect
+## Connect
 
 **GitHub:** [github.com/penielgold-hub](https://github.com/penielgold-hub)
 

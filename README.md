@@ -42,9 +42,12 @@ I contribute to production open-source projects through **bug fixes, regression 
 
 | Project | PR references | Contribution |
 | --- | --- | --- |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [My #128](https://github.com/Presago-Labs/presago/pull/128) → [Merged follow-up #139](https://github.com/Presago-Labs/presago/pull/139) | Fixed obsolete `.gitignore` rules and added CI regression checks; maintainer re-landed the change after resolving conflicts and credited my original PR. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [My #124](https://github.com/Presago-Labs/presago/pull/124) → [Merged follow-up #140](https://github.com/Presago-Labs/presago/pull/140) | Aligned documented Stellar RPC endpoints with deployment configuration; maintainer re-landed the change and credited my original PR. |
+| [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [My #116](https://github.com/Presago-Labs/presago/pull/116) → [Merged follow-up #141](https://github.com/Presago-Labs/presago/pull/141) | Stopped tracking a generated pitch-video MP4; maintainer re-landed the change and credited my original PR. |
 | [morluto/rea](https://github.com/morluto/rea) | [My #1133](https://github.com/morluto/rea/pull/1133) → [Merged follow-up #1138](https://github.com/morluto/rea/pull/1138) | Fixed npm 12 release-version lookup. The maintainer cherry-picked my fix, preserved commit authorship, and merged it with further refinements. |
 
-This credited contribution is additional to the 27 directly merged PRs above.
+These credited upstream contributions are additional to the 27 directly merged PRs above. The three Presago follow-up PRs were merged by the maintainer, not directly from my original PRs.
 
 ## 🚀 Open Source Engineering
 

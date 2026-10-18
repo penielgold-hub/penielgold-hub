@@ -7,6 +7,11 @@ I build and improve open-source software through targeted bug fixes, regression 
 
 **[Explore my repositories](https://github.com/penielgold-hub?tab=repositories)** · **[View merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Apenielgold-hub+is%3Amerged)**
 
+## Stellar Wave 10 — merged contributions (October 2026)
+
+- **[ezedike-evan/stellar-intel #1873](https://github.com/ezedike-evan/stellar-intel/pull/1873)** — Updated the SEP-38 USDC/NGN verification capture documentation with a dated record and flagged the delisted mykobo entry; merged 18 October 2026.
+- **[ezedike-evan/stellar-intel #1846](https://github.com/ezedike-evan/stellar-intel/pull/1846)** — Corrected API version-negotiation test assertions for the deprecated-header behavior; merged 17 October 2026.
+
 ## Selected contributions
 
 - **[ScoopInstaller/Extras #18941](https://github.com/ScoopInstaller/Extras/pull/18941)** — Fixed Aegisub portable archive extraction following an upstream archive rename; approved and merged on 7 October 2026.
@@ -23,6 +28,8 @@ The following is a **historical contribution register**, last compiled on 10 Oct
 
 | Project | Merged PR | Contribution |
 | --- | --- | --- |
+| [ezedike-evan/stellar-intel](https://github.com/ezedike-evan/stellar-intel) | [#1873](https://github.com/ezedike-evan/stellar-intel/pull/1873) | Dated SEP-38 USDC/NGN verification documentation and flagged delisted mykobo. |
+| [ezedike-evan/stellar-intel](https://github.com/ezedike-evan/stellar-intel) | [#1846](https://github.com/ezedike-evan/stellar-intel/pull/1846) | Corrected API deprecation-header test assertions. |
 | [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#126](https://github.com/Presago-Labs/presago/pull/126) | Reconciled Mainnet and Testnet contract documentation. |
 | [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#125](https://github.com/Presago-Labs/presago/pull/125) | Fixed zero-epoch leaderboard timestamp formatting and added regression tests. |
 | [Presago-Labs/presago](https://github.com/Presago-Labs/presago) | [#121](https://github.com/Presago-Labs/presago/pull/121) | Corrected contract error-code source references. |

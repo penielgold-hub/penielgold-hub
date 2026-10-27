@@ -7,16 +7,17 @@ I build and improve open-source software through targeted bug fixes, regression 
 
 **[Explore my repositories](https://github.com/penielgold-hub?tab=repositories)** · **[View merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Apenielgold-hub+is%3Amerged)**
 
-## Stellar Wave 10 — merged contributions (October 2026)
+## Stellar Wave 10 — contributions (October 2026)
 
 - **[ezedike-evan/stellar-intel #1873](https://github.com/ezedike-evan/stellar-intel/pull/1873)** — Updated the SEP-38 USDC/NGN verification capture documentation with a dated record and flagged the delisted mykobo entry; merged 18 October 2026.
 - **[ezedike-evan/stellar-intel #1846](https://github.com/ezedike-evan/stellar-intel/pull/1846)** — Corrected API version-negotiation test assertions for the deprecated-header behavior; merged 17 October 2026.
+- **[soterika/aura-vault-protocol #1181](https://github.com/soterika/aura-vault-protocol/pull/1181)** — Implemented a governance-controlled deposit allowlist for KYC-gated vaults, including admin add/remove operations, membership queries, rejection of unapproved depositors, event emissions, persistent-storage TTL handling, and governance-proposal integration with a three-approval quorum and 24-hour timelock. Merged 23 October 2026; PR reports 76 tests passing and `cargo check --offline` passing.
+- **[soterika/aura-vault-protocol Issue #915](https://github.com/soterika/aura-vault-protocol/issues/915)** — Keeper-whitelist feature for permissioned harvesting, covering optional whitelist enforcement, keeper membership management, access-control semantics, and regression-test considerations. The issue is closed and credited with 150 Wave points; the available discussion does not confirm a merged implementation PR, so this is listed as a completed Wave issue rather than a merged code PR.
 
 ## Selected contributions
 
 - **[ScoopInstaller/Extras #18941](https://github.com/ScoopInstaller/Extras/pull/18941)** — Fixed Aegisub portable archive extraction following an upstream archive rename; approved and merged on 7 October 2026.
 - **[Presago-Labs/presago](https://github.com/Presago-Labs/presago)** — Accessibility, regression testing, documentation, and maintenance improvements.
-- **[soterika/aura-vault-protocol #1181](https://github.com/soterika/aura-vault-protocol/pull/1181)** — Implemented a governance-controlled deposit allowlist for KYC-gated vaults, including admin add/remove operations, membership queries, `NotApproved` rejection for unapproved depositors, event emissions, persistent-storage TTL handling, and governance-proposal integration with a three-approval quorum and 24-hour timelock. Merged 23 October 2026; PR reports 76 tests passing and `cargo check --offline` passing.
 - **[Tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)** — Submitted fixes involving tensor gradients, profiling metadata, performance counters, and model-training tooling; see the individual PRs below for their current status.
 
 ## Contribution record

@@ -92,17 +92,14 @@ These credited upstream contributions are additional to the 27 directly merged P
 
 ### 🔹 [Tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
 
-Contributing fixes and regression coverage for AI/static-analysis defects involving tensor operations, model-training infrastructure, profiling, and performance tooling.
+Contributing to an open-source AI/ML infrastructure codebase, with a focus on C++ tensor operations, regression testing, profiling, and model-training tooling.
 
-- **[PR #58663](https://github.com/tenstorrent/tt-metal/pull/58663)** — Fixed broadcasted LHS gradient handling for tensor addition.
-- **[PR #58810](https://github.com/tenstorrent/tt-metal/pull/58810)** — Corrected Tracy device performance-counter names and added regression coverage.
-- **[PR #59181](https://github.com/tenstorrent/tt-metal/pull/59181)** — Improved tensor metadata handling for cached profiler operations.
-- **[PR #59187](https://github.com/tenstorrent/tt-metal/pull/59187)** — Improved three-tier nanoGPT vocabulary handling and associated testing.
+- **[PR #58663](https://github.com/tenstorrent/tt-metal/pull/58663)** — Proposed fix for min/max broadcast-gradient reduction, with focused backward-test coverage. Approved by a reviewer; awaiting required checks and hardware validation.
+- **[PR #58810](https://github.com/tenstorrent/tt-metal/pull/58810)** — Proposed correction to stale Tracy performance-counter names, with regression coverage.
+- **[PR #59181](https://github.com/tenstorrent/tt-metal/pull/59181)** — Proposed fix to preserve tensor metadata for cached profiler operations.
+- **[PR #59187](https://github.com/tenstorrent/tt-metal/pull/59187)** — Proposed fix for three-tier nanoGPT vocabulary handling and associated tests.
 
-**Tech:** C++ · Python · PyTorch · Testing · AI/ML Infrastructure · Performance Tooling
-
----
-
+**Technical areas:** C++ · Tensor operations · Regression testing · CI troubleshooting · Profiling · AI/ML infrastructure
 ## Additional contributions
 
 I have also worked on focused fixes and regression coverage across projects involving:

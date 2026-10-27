@@ -16,6 +16,7 @@ I build and improve open-source software through targeted bug fixes, regression 
 
 - **[ScoopInstaller/Extras #18941](https://github.com/ScoopInstaller/Extras/pull/18941)** — Fixed Aegisub portable archive extraction following an upstream archive rename; approved and merged on 7 October 2026.
 - **[Presago-Labs/presago](https://github.com/Presago-Labs/presago)** — Accessibility, regression testing, documentation, and maintenance improvements.
+- **[soterika/aura-vault-protocol #1181](https://github.com/soterika/aura-vault-protocol/pull/1181)** — Implemented a governance-controlled deposit allowlist for KYC-gated vaults, including admin add/remove operations, membership queries, `NotApproved` rejection for unapproved depositors, event emissions, persistent-storage TTL handling, and governance-proposal integration with a three-approval quorum and 24-hour timelock. Merged 23 October 2026; PR reports 76 tests passing and `cargo check --offline` passing.
 - **[Tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)** — Submitted fixes involving tensor gradients, profiling metadata, performance counters, and model-training tooling; see the individual PRs below for their current status.
 
 ## Contribution record

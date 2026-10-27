@@ -3,7 +3,24 @@
 **Software Developer | Open Source Contributor**  
 C++ · Python · TypeScript · JavaScript · Rust
 
-I build and improve open-source software through targeted bug fixes, regression tests, backend/API development, accessibility improvements, and developer tooling. My work spans production applications, AI/ML infrastructure, and software reliability.
+## Open-Source Software Developer
+
+I contribute to open-source projects through bug investigation, code changes, regression-test development, and CI troubleshooting. My work spans C++, Python, TypeScript, JavaScript, and Rust, with interests in backend systems, developer tooling, blockchain infrastructure, and AI/ML systems.
+
+### Technical Focus
+- **C++ and systems engineering:** Debugging implementation defects and developing targeted regression tests.
+- **Testing and reliability:** Investigating CI failures, validating test assumptions, and improving confidence in code changes.
+- **Backend development:** APIs, authentication, and application reliability.
+- **Blockchain and Web3:** Open-source projects in the Stellar and Soroban ecosystem.
+- **Responsible security research:** Scope-aware investigation and evidence-based validation of potential issues.
+
+### Current Open-Source Work
+Contributing to Tenstorrent's `tt-metal` codebase, including a proposed fix for broadcast-gradient handling in `ttnn::min_bw` and `ttnn::max_bw`, with focused backward-test coverage.
+
+I also pursue open-source contributions through projects such as Drips and Presago.
+
+I value small, reviewable changes, technically justified tests, transparent verification, and collaboration with maintainers.
+
 
 **[Explore my repositories](https://github.com/penielgold-hub?tab=repositories)** · **[View merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Apenielgold-hub+is%3Amerged)**
 

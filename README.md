@@ -130,6 +130,14 @@ I have also worked on focused fixes and regression coverage across projects invo
 
 `AI/ML Infrastructure` · `Backend Systems` · `Developer Tooling` · `Open Source` · `Software Reliability`
 
+## Current Project
+
+### SmartData Link — Open-Source Concept
+
+Developing an operator-neutral concept focused on improving mobile subscribers' awareness of their data usage and remaining balance. The proposal explores how daily usage notifications could also communicate the subscriber's remaining data balance, clearly timestamped, with future possibilities for bundle-validity information and subscriber-controlled alerts.
+
+The concept is being documented and validated before software implementation. It is intended to explore collaboration with mobile network operators and telecom technology or messaging providers; no operator partnership or live integration is claimed.
+
 ## Currently developing
 
 - C++ and Python for AI/ML infrastructure
